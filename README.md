@@ -1,6 +1,7 @@
 # This is a website hosted on GitHub Pages
 ### Below are the Instructions to launch the website
 This is an HTML and CSS website hosted on GitHub<br/>
+
 First click on 'github-pages' in the environments section where it says Active<br/>
 Next click on the top 'View Deployment' button to launch the website
 
